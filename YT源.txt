@@ -1,0 +1,78 @@
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+
+TV01：三立iNEWS
+TV02：寰宇新聞
+TV03：東森財經新聞
+TV04：MOMO購物1
+TV05：MOMO購物2
+TV06：運通財經
+TV07：信大
+TV08：DW德國之聲
+TV09：中視新聞
+TV10
+TV11
+TV12：華視警世劇場
+TV13
+TV14
+TV15
+TV16：K-POP
+TV17：民視新聞
+TV18：東森購物3
+TV19：東森購物2
+TV20：CCTV4中文國際
+TV21
+TV22：鳳凰資訊
+TV23：新唐人亞太
+TV24：abc NEWS
+TV25：台視新聞
+TV26：天才衝衝衝
+TV27：astro AWANI
+TV28：中天新聞
+TV29
+TV30：大愛
+TV31：TVBS網路新聞
+TV32：三立NEWS+
+TV33：CBN NEWS
+TV34：中視(歡喜玉玲瓏)
+TV35：原住民電視台
+TV36
+TV37：euro NEWS
+TV38：FRANCE 24
+TV39：NBC NEWS
+TV40：NEWS 18
+TV41：幸福居家空間
+TV42：MIT台灣誌
+TV43：鳳凰中文
+TV44
+TV45：TBS NEWS
+TV46
+TV47：大愛2
+TV48：大愛
+TV49：中天新聞(循環直播)
+TV50
+TV51：阿里郎
+TV52：CNA
+TV53：HTB NEWS
+TV54：viva購物1
+TV55：viva購物2
+TV56：國會頻道1
+TV57：國會頻道2
+TV58：
+TV59：半島新聞
+TV60：全球財經
+TV61
+TV62
+東森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+佩佩豬卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+動畫1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+動畫2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+兒童歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+兒童歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+TV69：奧特曼卡通
+TV70：鏡新聞
+TV71：中視(大陸尋奇)
+TV72：靖天電視台
+TV73：豬哥會社
+TV74：(台劇)公主小妹
+TV76：新玫瑰瞳鈴眼
+TV78：Taiwan+
