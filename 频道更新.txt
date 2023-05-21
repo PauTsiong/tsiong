@@ -1,5 +1,5 @@
 内测1,#genre#
-翡翠台,http://38.60.38.154:1188/mmm5288.php?id=jade_twn
+
 TVB J2台,http://154.216.191.59/ycdz/x.php?id=8
 TVB明珠台,http://154.216.191.59/ycdz/x.php?id=9
 香港国际财经台,http://154.216.191.59/ycdz/x.php?id=22
