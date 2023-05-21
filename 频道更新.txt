@@ -1,7 +1,5 @@
 内测1,#genre#
 香港国际财经台,http://154.216.191.59/ycdz/x.php?id=22
-HOY资讯台,http://154.216.191.59/ycdz/x.php?id=23
-HOY TV,http://154.216.191.59/ycdz/x.php?id=24
 港台电视31,http://154.216.191.59/ycdz/x.php?id=26
 港台电视32,http://154.216.191.59/ycdz/x.php?id=27
 中天新闻台,http://154.216.191.59/ycdz/x.php?id=43
