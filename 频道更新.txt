@@ -1,7 +1,4 @@
 内测1,#genre#
-
-TVB J2台,http://154.216.191.59/ycdz/x.php?id=8
-TVB明珠台,http://154.216.191.59/ycdz/x.php?id=9
 香港国际财经台,http://154.216.191.59/ycdz/x.php?id=22
 HOY资讯台,http://154.216.191.59/ycdz/x.php?id=23
 HOY TV,http://154.216.191.59/ycdz/x.php?id=24
