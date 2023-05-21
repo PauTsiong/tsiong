@@ -1,4 +1,5 @@
 内测1,#genre#
+我爱你,https://raw.githubusercontent.com/PauTsiong/tsiong/main/%E9%A2%91%E9%81%93%E6%9B%B4%E6%96%B0.txt
 香港国际财经台,http://154.216.191.59/ycdz/x.php?id=22
 港台电视31,http://154.216.191.59/ycdz/x.php?id=26
 港台电视32,http://154.216.191.59/ycdz/x.php?id=27
