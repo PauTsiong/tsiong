@@ -124,13 +124,13 @@ taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 
-台视(快的节点),http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+台视(测速),http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 
-台视(快的节点),https://epg.pw/stream/bb90e22166a1ccca729d4ac6c37f51e0c72bd108d8a2d8ddf78340cbe36378af.m3u8
+台视(测速),https://epg.pw/stream/bb90e22166a1ccca729d4ac6c37f51e0c72bd108d8a2d8ddf78340cbe36378af.m3u8
 
-台视(快的节点),rtmp://59.124.75.138:1935/sat/tv071
+台视(测速),rtmp://59.124.75.138:1935/sat/tv071
 
-台视(快的节点),rtmp://59.124.75.138/sat/tv071
+台视(测速),rtmp://59.124.75.138/sat/tv071
 
 台视新闻,http://lttv.ddqq.fun:35455/youtube/xL0ch83RAK8(?quality=1080)
 
