@@ -1,23 +1,5 @@
 内测1,#genre#
-厦门卫视,https://live.v1.mk/api/fjgd.php?id=xm1
 
-福建|厦门一套,https://live.v1.mk/api/fjgd.php?id=xm1
-
-福建|厦门二套,https://live.v1.mk/api/fjgd.php?id=xm2
-
-福建|厦门三套,https://live.v1.mk/api/fjgd.php?id=xm3
-
-福建|泉州一套,https://live.v1.mk/api/fjgd.php?id=qz1
-
-福建|泉州二套,https://live.v1.mk/api/fjgd.php?id=qz3
-
-福建|泉州三套,https://live.v1.mk/api/fjgd.php?id=qz4
-
-福建|泉州四套,https://live.v1.mk/api/fjgd.php?id=qz4
-漳州一套,https://live.v1.mk/api/fjgd.php?id=zz1
-
-福建|漳州二套,https://live.v1.mk/api/fjgd.php?id=zz2
-厦门第一,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 
 河北杂技,http://121.24.98.32:8090/hls/60/index.m3u8
