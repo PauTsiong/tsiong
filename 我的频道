@@ -1,5 +1,5 @@
 内测1,#genre#
-一,https://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1684861204-1a82930ac9644872ae01c8db08fabdc5-0-781c6990f0bc391441d87966f751257e
+
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 
 河北杂技,http://121.24.98.32:8090/hls/60/index.m3u8
@@ -630,7 +630,6 @@ TVB华丽台,http://23.237.10.66:16410
 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-爱奇艺大电影,https://www.youtube.com/live/r0-kbKo05Fk?feature=share
 
 cinemax,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 
@@ -720,11 +719,7 @@ i-KTV,https://epg.pw/stream/92ec3eff491fa83329b0990e92a9ebe2d4a07ff3a5cd5f52e225
 
 福建频道,#genre#
 
-东南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-厦门卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8?zfud
-
-厦门卫视,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud
 
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 
