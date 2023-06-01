@@ -1691,14 +1691,6 @@ nileli,https://www.goodiptv.club/douyu/419987
 熊猫摄像头2,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 熊猫摄像头3,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
 熊猫摄像头3,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
-内测频道1,#genre#
-CHC家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
-
-三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
-三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
-TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
-無綫新聞台,http://14.221.164.12:9981/stream/channelid/631121084?profile=pass
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 油管直播,#genre#
 猫猫直播(养小猫),https://www.youtube.com/live/SATiOd-YMLY?feature=share
@@ -1995,6 +1987,12 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 
 三立新闻,http://2023.stream-link.org/playlist/set_news+.flv
 
+三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
+
+
+三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
+
+
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -2190,6 +2188,7 @@ astro双星,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571191
 
 astro小太阳,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571230&extension=ts
 香港频道,#genre#
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
@@ -2248,20 +2247,20 @@ J2,http://shazui.8866.org:800/hls/81/index.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 
 TVB千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=HnxccIWiNo
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
 
-TVB星河频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 
-TVB星河频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
+TVB星河,http://183.239.193.55:2223/hls/6/index.m3u8
 
-TVB星河频道,http://183.239.193.55:2223/hls/6/index.m3u8
+TVB星河,http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
 
-TVB星河频道,http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
+TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 
-TVB星河频道,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 
-TVB星河频道,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-
-TVB星河频道,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941620
+TVB星河,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941620
 
 RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 
@@ -2281,6 +2280,8 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 CHC高清电影,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 
 CHC家庭影院,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
+
+CHC家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 
 CHC动作电影,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 
