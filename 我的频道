@@ -2,6 +2,9 @@
 测试,#genre#
 台视,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 八大精彩,https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1685514988&rand=L8fA4fGBVG&uuid=9b647b3816b2a66a&from=web&sign=0d48f01f8ed9839b7ab2e77c5a65a911
+八大娛樂,mitv://fccseuro.pvbox.live:18912/5b14096a00062806e9046a77403f3362
+
+
 YY直播,#genre#
 
 
