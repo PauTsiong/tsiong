@@ -1,8 +1,12 @@
 
 测试,#genre#
+台视,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+
+台视,rtmp://119.81.124.89/sat/tv071
+
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 
 
-台视HD,rtmp://9wv7.mine.nu/sat/tv071
 YY直播,#genre#
 
 
