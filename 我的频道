@@ -151,33 +151,6 @@ CCTV16超清,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212268
 CCTV17超清,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 
 
-
-@CCTV1,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV2,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV3,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV4,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV4K,http://159.75.85.63:5679/cctv4k.php
-@CCTV4欧洲,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV5,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV5,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV5+,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV6,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV7,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV8,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV9,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV9,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV10,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV11,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV12,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV13,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV14,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV15,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV16,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-@CCTV17,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-
-
-
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -208,215 +181,26 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 
 
 
-东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=UEKTIim7lP
-中天新闻,http://107.151.203.111:2209/135/hk.php?id=ztxw
-东森新闻,http://209.141.47.175/kstv2.php?id=488
-东森新闻,http://129fy28039.zicp.fun:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=1&authid=0
-民视新闻,http://123.51.149.68:18663/0.m3u8
-民视频道,http://120.84.96.87:808/hls/34/index.m3u8
+
 八大第一,http://123.51.230.108:18539/.m3u8
 東森戲劇,http://123.51.230.108:18538/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 八大第一,http://123.51.230.108:18539/.m3u8
-東森財經,http://123.51.230.108:18515/.m3u8
 緯來綜合,http://123.51.230.108:18540/.m3u8
 
-东森洋片,http://129fy28039.zicp.fun:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=0
-东森戏剧,http://129fy28039.zicp.fun:8181/tsfile/live/1223_1.m3u8?key=txiptv&playlive=1&authid=0
-台湾戏剧,http://129fy28039.zicp.fun:8181/tsfile/live/1208_1.m3u8?key=txiptv&playlive=1&authid=0
 八大娱乐,http://129fy28039.zicp.fun:8181/tsfile/live/1211_1.m3u8?key=txiptv&playlive=1&authid=0
-东森超视,http://129fy28039.zicp.fun:8181/tsfile/live/1212_1.m3u8?key=txiptv&playlive=1&authid=0
-地理频道,http://129fy28039.zicp.fun:8181/tsfile/live/1213_1.m3u8?key=txiptv&playlive=1&authid=0
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 广东台频道4K,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
 南京娱乐频道,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 
-江苏卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-广西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-四川卫视 8M,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-湖南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-东方卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-北京卫视 8M,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-天津卫视 8M,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视 8M,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-广东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视 8M,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-湖北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-东南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-云南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-欢笑剧场 8M,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-劲爆体育 8M,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-快乐垂钓 8M,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-金鹰纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-戏曲精选 8M,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-上海第一财经 8M,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-上视新闻 8M,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-上海都市 8M,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海纪实 8M,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-东方影院 8M,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-五星体育 8M,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-上视外语 8M,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-七彩戏剧 8M,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-上海教育 8M,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-全纪实 8M,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-生活时尚 8M,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-新视觉 8M,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-健康养生 8M,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-百变课堂 8M,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-电竞天堂 8M,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-青春动漫 8M,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-宝宝动画 8M,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-星光影院 8M,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-全球大片 8M,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场 8M,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-陶瓷高清 8M,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-中国教育-1 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-中国教育-4 8M,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-卡酷少儿 8M,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-纪实科教 8M,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-茶频道 8M,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-炫动卡通 8M,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-东方财经 8M,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-都市剧场 8M,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-动漫秀场 8M,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-法治天地 8M,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-金色学堂 8M,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-魅力足球 8M,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 
-玉林公共 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-玉林新闻 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁新闻 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-广西新闻 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-广西都市 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视高清,http://129fy28039.zicp.fun:8181/tsfile/live/faacts/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁公共 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视 高清,http://129fy28039.zicp.fun:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 
-安徽卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-北京卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-东方卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东南卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-广东卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-贵州卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-河北卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-黑龙江卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-湖北卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-湖南卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-吉林卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-江苏卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-江西卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240398_1/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-金鹰纪实,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-辽宁卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-辽宁卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-山东卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-深圳卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-天津卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-浙江卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-重庆卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-北京卫视,http://119.39.128.18:88/hls/20/index.m3u8
-浙江卫视,http://119.39.128.18:88/hls/18/index.m3u8
-安徽卫视,http://119.39.128.18:88/hls/19/index.m3u8
-江苏卫视,http://119.39.128.18:88/hls/17/index.m3u8
-天津卫视,http://119.39.128.18:88/hls/21/index.m3u8
-辽宁卫视,http://119.39.128.18:88/hls/25/index.m3u8
-东方卫视,http://119.39.128.18:88/hls/22/index.m3u8
-深圳卫视,http://119.39.128.18:88/hls/24/index.m3u8
-江西卫视,http://119.39.128.18:88/hls/23/index.m3u8
-海南卫视,http://119.39.128.18:88/hls/27/index.m3u8
-广东卫视,http://119.39.128.18:88/hls/28/index.m3u8
-四川卫视,http://119.39.128.18:88/hls/32/index.m3u8
-山东卫视,http://119.39.128.18:88/hls/31/index.m3u8
-广西卫视,http://119.39.128.18:88/hls/30/index.m3u8
-湖北卫视,http://119.39.128.18:88/hls/29/index.m3u8
 东南卫视,http://119.39.128.18:88/hls/26/index.m3u8
-贵州卫视,http://119.39.128.18:88/hls/37/index.m3u8
-重庆卫视,http://119.39.128.18:88/hls/33/index.m3u8
-河北卫视,http://119.39.128.18:88/hls/38/index.m3u8
-云南卫视,http://119.39.128.18:88/hls/34/index.m3u8
-河南卫视,http://119.39.128.18:88/hls/35/index.m3u8
-黑龙江卫视,http://119.39.128.18:88/hls/36/index.m3u8
-新疆卫视,http://119.39.128.18:88/hls/45/index.m3u8
-甘肃卫视,http://119.39.128.18:88/hls/46/index.m3u8
-宁夏卫视,http://119.39.128.18:88/hls/43/index.m3u8
-西藏卫视,http://119.39.128.18:88/hls/44/index.m3u8
-内蒙古卫视,http://119.39.128.18:88/hls/42/index.m3u8
-吉林卫视,http://119.39.128.18:88/hls/39/index.m3u8
-山西卫视,http://119.39.128.18:88/hls/41/index.m3u8
-陕西卫视,http://119.39.128.18:88/hls/40/index.m3u8
 厦门卫视,http://119.39.128.18:88/hls/49/index.m3u8
-兵团卫视,http://119.39.128.18:88/hls/50/index.m3u8
-湖南卫视,http://119.39.128.18:88/hls/51/index.m3u8
-大亚湾卫视,http://119.39.128.18:88/hls/48/index.m3u8
-青海卫视,http://119.39.128.18:88/hls/47/index.m3u8
-湖南国际,http://119.39.128.18:88/hls/52/index.m3u8
-
-
-井冈山台频道,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
-广东珠江频道,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
-广东文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 
 
 
