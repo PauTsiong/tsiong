@@ -26,6 +26,35 @@ VUTV6[1280x720],https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=
 TVB j2[1280x720],https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
 星卫电影[1920x1080],https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1686313270&rand=eGwaHv2i0u&uuid=9b647b3816b2a66a&from=web&sign=935cd89a5b3583f05fdbaf834208f282
 东森综合[1920x1080],https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1686313315&rand=nHqiCNV70W&uuid=9b647b3816b2a66a&from=web&sign=5df001f7090ed2cbd6f0cef83de5da41
+香港地波,#genre#
+港台電視31,http://cdn.hkdtmb.com/raw/31.ts
+
+港台電視32,http://cdn.hkdtmb.com/raw/32.ts
+
+港台電視33,http://cdn.hkdtmb.com/raw/33.ts
+
+CGTN紀錄頻道,http://cdn.hkdtmb.com/raw/34.ts
+
+HOY TV,http://cdn.hkdtmb.com/raw/77.ts
+
+HOY TV 資訊台,http://cdn.hkdtmb.com/raw/78.ts
+
+香港國際財經台,http://cdn.hkdtmb.com/raw/76.ts
+
+翡翠台,http://cdn.hkdtmb.com/raw/81.ts
+
+J2台,http://cdn.hkdtmb.com/raw/82.ts
+
+無綫新聞台,http://cdn.hkdtmb.com/raw/83.ts
+
+明珠台,http://cdn.hkdtmb.com/raw/84.ts
+
+無綫財經·資訊台,http://cdn.hkdtmb.com/raw/85.ts
+
+ViuTV,http://cdn.hkdtmb.com/raw/99.ts
+
+ViuTVSix,http://cdn.hkdtmb.com/raw/96.ts
+
 
 油管直播,#genre#
 中天新闻,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
