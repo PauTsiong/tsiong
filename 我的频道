@@ -282,7 +282,7 @@ CETV-03原版,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 
 taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
-TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+
 台视,https://dispatch.ulivetv.net:443/v/live/cl7c6o644t6o.m3u8?stream_id=cl7c6o644t6o&timestamp=1685885440&rand=gvfx8zIcWy&uuid=9b647b3816b2a66a&from=web&sign=ddb80ba50a833b20d20d928f33bafae8
 台视,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 
@@ -3114,6 +3114,7 @@ nileli,https://www.goodiptv.club/douyu/419987
 
 
 马来西亚,#genre#
+TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 
 astro小太阳,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
 
